@@ -7,33 +7,33 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-    if (msg.content.startsWith('poll:')) {
+    if (msg.content.toLowerCase().startsWith('poll:')) {
         msg.react('👍');
         msg.react('👎');
         msg.react('🤷');
-    } else if (msg.content.startsWith('2poll:')) {
+    } else if (msg.content.toLowerCase().startsWith('2poll:')) {
         msg.react('1️⃣');
         msg.react('2️⃣');
         msg.react('🤷');
-    } else if (msg.content.startsWith('3poll:')) {
+    } else if (msg.content.toLowerCase().startsWith('3poll:')) {
         msg.react('1️⃣');
         msg.react('2️⃣');
         msg.react('3️⃣');
         msg.react('🤷');
-    } else if (msg.content.startsWith('4poll:')) {
+    } else if (msg.content.toLowerCase().startsWith('4poll:')) {
         msg.react('1️⃣');
         msg.react('2️⃣');
         msg.react('3️⃣');
         msg.react('4️⃣');
         msg.react('🤷');
-    } else if (msg.content.startsWith('5poll:')) {
+    } else if (msg.content.toLowerCase().startsWith('5poll:')) {
         msg.react('1️⃣');
         msg.react('2️⃣');
         msg.react('3️⃣');
         msg.react('4️⃣');
         msg.react('5️⃣');
         msg.react('🤷');
-    } else if (msg.content.startsWith('6poll:')) {
+    } else if (msg.content.toLowerCase().startsWith('6poll:')) {
         msg.react('1️⃣');
         msg.react('2️⃣');
         msg.react('3️⃣');
@@ -41,7 +41,7 @@ client.on('message', msg => {
         msg.react('5️⃣');
         msg.react('6️⃣');
         msg.react('🤷');
-    } else if (msg.content.startsWith('7poll:')) {
+    } else if (msg.content.toLowerCase().startsWith('7poll:')) {
         msg.react('1️⃣');
         msg.react('2️⃣');
         msg.react('3️⃣');
@@ -50,7 +50,7 @@ client.on('message', msg => {
         msg.react('6️⃣');
         msg.react('7️⃣');
         msg.react('🤷');
-    } else if (msg.content.startsWith('8poll:')) {
+    } else if (msg.content.toLowerCase().startsWith('8poll:')) {
         msg.react('1️⃣');
         msg.react('2️⃣');
         msg.react('3️⃣');
@@ -60,7 +60,7 @@ client.on('message', msg => {
         msg.react('7️⃣');
         msg.react('8️⃣');
         msg.react('🤷');
-    } else if (msg.content.startsWith('9poll:')) {
+    } else if (msg.content.toLowerCase().startsWith('9poll:')) {
         msg.react('1️⃣');
         msg.react('2️⃣');
         msg.react('3️⃣');
