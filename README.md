@@ -4,20 +4,20 @@ Discord bot to assist with server-wide member polls.
 
 ## Commands
 
-`poll:` - Reacts to your message with 👍 👎 🤷
+`poll:` - Reacts to your message with thumbs up, thumbs down and shrug.
 
-`2poll:` - Reacts to your message with 1️⃣ 2️⃣ 🤷
+`2poll:` - Reacts to your message with 1️⃣️, 2️⃣ and 🤷.
 
-`3poll:` - Reacts to your message with 1️⃣ 2️⃣ 3️⃣ 🤷
+`3poll:` - Reacts to your message with 1️⃣ to 3️⃣ and 🤷.
 
-`4poll:` - Reacts to your message with 1️⃣ 2️⃣ 3️⃣ 4️⃣ 🤷
+`4poll:` - Reacts to your message with 1️⃣ to 4️⃣ and 🤷.
 
-`5poll:` - Reacts to your message with 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 🤷
+`5poll:` - Reacts to your message with 1️⃣ to 5️⃣ and 🤷.
 
-`6poll:` - Reacts to your message with 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 🤷
+`6poll:` - Reacts to your message with 1️⃣ to 6️⃣ and 🤷.
 
-`7poll:` - Reacts to your message with 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 🤷
+`7poll:` - Reacts to your message with 1️⃣ to 7️⃣ and 🤷.
 
-`8poll:` - Reacts to your message with 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 🤷
+`8poll:` - Reacts to your message with 1️⃣ to 8️⃣ and 🤷.
 
-`9poll:` - Reacts to your message with 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🤷
+`9poll:` - Reacts to your message with 1️⃣ to 9️⃣ and 🤷.
