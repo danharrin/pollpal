@@ -6,18 +6,18 @@ Discord bot to assist with server-wide member polls.
 
 `poll:` - Reacts to your message with thumbs up, thumbs down and shrug.
 
-`2poll:` - Reacts to your message with 1️⃣️, 2️⃣ and 🤷.
+`2poll:` - Reacts to your message with 1, 2️ and shrug.
 
-`3poll:` - Reacts to your message with 1️⃣ to 3️⃣ and 🤷.
+`3poll:` - Reacts to your message with 1 to 3️ and shrug.
 
-`4poll:` - Reacts to your message with 1️⃣ to 4️⃣ and 🤷.
+`4poll:` - Reacts to your message with 1 to 4️ and shrug.
 
-`5poll:` - Reacts to your message with 1️⃣ to 5️⃣ and 🤷.
+`5poll:` - Reacts to your message with 1 to 5️ and shrug.
 
-`6poll:` - Reacts to your message with 1️⃣ to 6️⃣ and 🤷.
+`6poll:` - Reacts to your message with 1 to 6️ and shrug.
 
-`7poll:` - Reacts to your message with 1️⃣ to 7️⃣ and 🤷.
+`7poll:` - Reacts to your message with 1 to 7️ and shrug.
 
-`8poll:` - Reacts to your message with 1️⃣ to 8️⃣ and 🤷.
+`8poll:` - Reacts to your message with 1 to 8️ and shrug.
 
-`9poll:` - Reacts to your message with 1️⃣ to 9️⃣ and 🤷.
+`9poll:` - Reacts to your message with 1 to 9️ and shrug.
