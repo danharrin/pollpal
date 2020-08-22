@@ -4,9 +4,9 @@ Discord bot to assist with server-wide member polls.
 
 ## Commands
 
-`poll:` - Reacts to your message with thumbs up, thumbs down and shrug.
+`poll:` - Reacts to your message with thumbs up, thumbs down, and shrug.
 
-`2poll:` - Reacts to your message with 1, 2️ and shrug.
+`2poll:` - Reacts to your message with 1, 2️, and shrug.
 
 `3poll:` - Reacts to your message with 1 to 3️ and shrug.
 
