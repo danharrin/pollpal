@@ -72,8 +72,6 @@ client.on('message', msg => {
         msg.react('9️⃣');
         msg.react('🤷');
     };
-
-    msg.reply('Polled!');
 });
 
 client.login(process.env.TOKEN);
