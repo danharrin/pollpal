@@ -24,8 +24,6 @@ Discord bot to assist with server-wide member polls.
 
 `addreaction: [channel ID] [message ID] [emoji]` - Reacts to the message with the emoji.
 
-`removereaction: [channel ID] [message ID] [emoji]` - Removes a bot reaction to the message.
+`removereaction: [channel ID] [message ID] [emoji]` - Removes the bot's reaction to the message.
 
-`removeallreactions: [channel ID] [message ID]` - Removes all reactions to the message.
-
-`removeallreactions: [channel ID] [message ID] [emoji]` - Removes all reactions to the message of the emoji.
+`removeallreactions: [channel ID] [message ID] [?emoji]` - Removes all reactions to the message.
